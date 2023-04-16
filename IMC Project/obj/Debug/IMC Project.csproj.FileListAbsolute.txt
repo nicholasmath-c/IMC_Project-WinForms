@@ -1,0 +1,10 @@
+C:\Users\Etec\source\repos\IMC Project\IMC Project\bin\Debug\IMC Project.exe.config
+C:\Users\Etec\source\repos\IMC Project\IMC Project\bin\Debug\IMC Project.exe
+C:\Users\Etec\source\repos\IMC Project\IMC Project\bin\Debug\IMC Project.pdb
+C:\Users\Etec\source\repos\IMC Project\IMC Project\obj\Debug\IMC Project.csproj.AssemblyReference.cache
+C:\Users\Etec\source\repos\IMC Project\IMC Project\obj\Debug\IMC_Project.Properties.Resources.resources
+C:\Users\Etec\source\repos\IMC Project\IMC Project\obj\Debug\IMC Project.csproj.GenerateResource.cache
+C:\Users\Etec\source\repos\IMC Project\IMC Project\obj\Debug\IMC Project.csproj.CoreCompileInputs.cache
+C:\Users\Etec\source\repos\IMC Project\IMC Project\obj\Debug\IMC Project.exe
+C:\Users\Etec\source\repos\IMC Project\IMC Project\obj\Debug\IMC Project.pdb
+C:\Users\Etec\source\repos\IMC Project\IMC Project\obj\Debug\IMC_Project.CalculadoraIMC.resources
