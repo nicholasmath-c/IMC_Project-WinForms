@@ -78,7 +78,7 @@ namespace IMC_Project
             float.TryParse(txtPeso.Text, out float peso);
             int idade = Convert.ToInt32(numIdade.Value);
             char genero = rdbMasculino.Checked ? 'm' : 'f';
-            string faixa_etaria = idade <= 12 ? "crianca" : idade > 12 && idade <= 17 ? "adolescente" : idade >= 18 && idade < 60 ? "adulto" : "idoso";
+            string faixa_etaria = idade <= 12 ? "crianca" : idade > 12 && idade <= 17 ? "adolescente" : idade >= 18 && idade < 65 ? "adulto" : "idoso";
             float imc = CalcularIMC(altura, peso);
             float diferencaPeso = 0f;
             bool dica = false;
